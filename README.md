@@ -1,4 +1,4 @@
-Video: (link coming)
+Video: https://youtu.be/-a_lB30IQGw
 
 # tinyvault: hide 3 secrets, let REA find them, grade every claim
 
