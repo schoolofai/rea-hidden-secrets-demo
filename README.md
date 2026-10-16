@@ -1,6 +1,4 @@
-Video: VIDEO_URL_PLACEHOLDER (to be replaced with the YouTube link)  <!-- REPLACE with the new YouTube link for "REA Reverse Engineer Anything: I Hid 3 Secrets in My Own App. It Found All 3." (ProAI Clips, SCO-556) once it is uploaded -->
-
-> **Video link coming soon** - the line above is a placeholder and will be replaced with the YouTube link. Timestamps below match that video.
+**Video:** [REA Reverse Engineer Anything: I Hid 3 Secrets in My Own App. It Found All 3.](https://youtu.be/du4mwCW06To)
 
 # tinyvault: hide 3 secrets, let REA find them, grade every claim
 
